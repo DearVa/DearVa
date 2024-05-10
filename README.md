@@ -13,6 +13,6 @@
 
 ---
 
-![C#](https://img.shields.io/badge/-C%23-blue) ![Pan](https://img.shields.io/badge/-Pan-pink) ![ACG](https://img.shields.io/badge/-ACG-orange)
+![C#](https://img.shields.io/badge/-C%23-blue) ![🍥](https://img.shields.io/badge/-🍥-pink) ![ACG](https://img.shields.io/badge/-ACG-orange)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DearVa&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DearVa&hide=java)  
