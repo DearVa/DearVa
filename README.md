@@ -1,16 +1,16 @@
+<a href="#"><img align="right" alt="DearVa's github stats" src="https://github-readme-stats.vercel.app/api?username=DearVa&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=bear"></img></a>
+
 ### 👋 Dear.Va 在这哦
 
 梦想是成为可爱的小天使 †升天†
 
-`Dear.Va` means `Dear D.Va!`
-
-[![DearVa's github stats](https://github-readme-stats.vercel.app/api?username=DearVa&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=bear)](https://github.com/DearVa)
+**Dear.Va** means **Dear D.Va!**
 
 ![C#](https://img.shields.io/badge/-C%23-blue) ![MtF](https://img.shields.io/badge/-MtF-pink) ![ACG](https://img.shields.io/badge/-ACG-orange)
 
 ### 🤩 Visitor count
 
-![vistors](https://count.getloli.com/get/@DearVa?theme=rule34)  
+[![DearVa's visitor count](https://count.getloli.com/get/@DearVa?theme=rule34)](https://github.com/DearVa/Everywhere)
 
 ### ✨ Skills
 
