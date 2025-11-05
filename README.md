@@ -1,12 +1,12 @@
 <a href="#"><img align="right" alt="DearVa's github stats" src="https://github-readme-stats.vercel.app/api?username=DearVa&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=bear"></img></a>
 
-### 👋 Dear.Va 在这哦
+### 👋 Dear.Va is Here!
 
 梦想是成为可爱的小天使 †升天†
 
 **Dear.Va** means **Dear D.Va!**
 
-![C#](https://img.shields.io/badge/-C%23-blue) ![MtF](https://img.shields.io/badge/-MtF-pink) ![ACG](https://img.shields.io/badge/-ACG-orange)
+![C#](https://img.shields.io/badge/-C%23-blue) ![MtF](https://img.shields.io/badge/-MtF-pink)
 
 ### 🤩 Visitor count
 
