@@ -27,6 +27,11 @@
 [![Other skills](https://skillicons.dev/icons?i=arduino,ubuntu,kali,opencv,pytorch,raspberrypi)](https://skillicons.dev)
 
 ### 📞 Contact
+(Please state your purpose when contacting me. Thank you 😇)
+
+Gmail: dear.va.love@gmail.com
+
+QQ: 1328886154
 
 [![Join QQ Group][QQ-Group]](https://qm.qq.com/cgi-bin/qm/qr?k=fhQsVXoli8FI6hvZi65p5LsO6veG-n64&jump_from=webapi&authKey=AJVYeiBGAiDD67ZVHfv5Kea5hwQBmPIL+UIbh4Iiw3a1/N/MWUwByDwNqW9k4qd+)
 
