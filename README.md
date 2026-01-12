@@ -1,4 +1,4 @@
-<a href="#"><img align="right" alt="DearVa's github stats" src="https://github-readme-stats.vercel.app/api?username=DearVa&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=bear"></img></a>
+<a href="#"></a>
 
 ### 👋 Dear.Va is Here!
 
