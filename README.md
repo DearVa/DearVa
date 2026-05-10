@@ -1,5 +1,7 @@
 ### 👋 Dear.Va is Here!
 
+<a href="#"><img align="right" alt="DearVa's github stats" src="https://stats.ziling.moe/api?username=dearva&theme=dracula&show_icons=true&hide_title=true&show=reviews,prs_merged&hide=contribs&include_repo=Sylinko/Everywhere"></img></a>
+
 梦想是成为可爱的小天使 †升天†
 
 **Dear.Va** means **Dear D.Va!**
