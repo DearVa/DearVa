@@ -27,7 +27,7 @@
 [![Other skills](https://skillicons.dev/icons?i=arduino,ubuntu,kali,opencv,pytorch,raspberrypi)](https://skillicons.dev)
 
 ### 📞 Contact
-(Please state your purpose when contacting me. Thank you 😇)
+(Please state your purpose when contacting me. Thank you~)
 
 Gmail: dear.va.love@gmail.com
 
